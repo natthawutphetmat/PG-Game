@@ -6,7 +6,7 @@ import Link from 'next/link';
 export default function Page() {
 
   const Signup = () => {
-    window.location.href="https://web-ip.myadsdevs.shop";
+    window.location.href="https://web-ip.myadsdevs.shop/game/";
   };
 
   return (
